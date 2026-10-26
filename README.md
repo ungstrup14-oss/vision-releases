@@ -8,7 +8,6 @@ This repository only holds releases; there is no source code here.
 | Computer | File |
 |---|---|
 | Mac with Apple Silicon (M1 and newer) | `Vision-x.y.z-arm64.dmg` |
-| Mac with Intel | `Vision-x.y.z-x64.dmg` |
 | Windows | `Vision-Setup-x.y.z.exe` |
 
 **Mac:** open the `.dmg` and drag Vision into Applications. The first time, macOS can't verify the app:
